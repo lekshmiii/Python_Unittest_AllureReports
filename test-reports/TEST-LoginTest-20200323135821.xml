@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LoginTest-20200323135821" tests="2" file=".py" time="5.446" timestamp="2020-03-23T13:58:29" failures="0" errors="0" skipped="1">
+	<testcase classname="LoginTest" name="test_Login_method" time="5.446" timestamp="2020-03-23T13:58:29" file="TestCases/Login.py" line="29">
+		<system-out><![CDATA[]]></system-out>
+		<system-err><![CDATA[]]></system-err>
+	</testcase>
+	<testcase classname="LoginTest" name="test_skippingtest" time="0.000" timestamp="2020-03-23T13:58:29" file="TestCases/Login.py" line="45">
+		<skipped type="skip" message="this test is skipped"/>
+		<system-out><![CDATA[]]></system-out>
+		<system-err><![CDATA[]]></system-err>
+	</testcase>
+</testsuite>
